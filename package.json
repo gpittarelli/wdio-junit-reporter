@@ -1,5 +1,5 @@
 {
-  "name": "wdio-junit-reporter",
+  "name": "@gpittarelli/wdio-junit-reporter",
   "version": "0.4.4",
   "description": "A WebdriverIO plugin. Report results in junit xml format.",
   "main": "build/reporter.js",
